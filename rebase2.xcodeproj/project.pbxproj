@@ -14,6 +14,7 @@
 		AE031083230EBD7500456516 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE031081230EBD7500456516 /* LaunchScreen.storyboard */; };
 		AE031086230EBD7500456516 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031085230EBD7500456516 /* main.m */; };
 		AECD89CC230EDD0E00A50A42 /* ClassForDevelopBranch.m in Sources */ = {isa = PBXBuildFile; fileRef = AECD89CB230EDD0E00A50A42 /* ClassForDevelopBranch.m */; };
+		D0EE82FD230F0296007EF658 /* ClassForDevelop.m in Sources */ = {isa = PBXBuildFile; fileRef = D0EE82FC230F0296007EF658 /* ClassForDevelop.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		AE031085230EBD7500456516 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AECD89CA230EDD0E00A50A42 /* ClassForDevelopBranch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClassForDevelopBranch.h; sourceTree = "<group>"; };
 		AECD89CB230EDD0E00A50A42 /* ClassForDevelopBranch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClassForDevelopBranch.m; sourceTree = "<group>"; };
+		D0EE82FB230F0296007EF658 /* ClassForDevelop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClassForDevelop.h; sourceTree = "<group>"; };
+		D0EE82FC230F0296007EF658 /* ClassForDevelop.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClassForDevelop.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				AE031081230EBD7500456516 /* LaunchScreen.storyboard */,
 				AE031084230EBD7500456516 /* Info.plist */,
 				AE031085230EBD7500456516 /* main.m */,
+				D0EE82FB230F0296007EF658 /* ClassForDevelop.h */,
+				D0EE82FC230F0296007EF658 /* ClassForDevelop.m */,
 			);
 			path = rebase2;
 			sourceTree = "<group>";
@@ -149,6 +154,7 @@
 				AECD89CC230EDD0E00A50A42 /* ClassForDevelopBranch.m in Sources */,
 				AE03107B230EBD7300456516 /* ViewController.m in Sources */,
 				AE031086230EBD7500456516 /* main.m in Sources */,
+				D0EE82FD230F0296007EF658 /* ClassForDevelop.m in Sources */,
 				AE031078230EBD7300456516 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
