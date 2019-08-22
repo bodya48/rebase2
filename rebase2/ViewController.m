@@ -37,4 +37,8 @@
     NSLog(@"feature3method");
 }
 
+- (void)newfeature3method {
+    NSLog(@"newfeature3method");
+}
+
 @end
