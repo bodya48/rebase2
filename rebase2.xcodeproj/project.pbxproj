@@ -14,6 +14,7 @@
 		AE031083230EBD7500456516 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE031081230EBD7500456516 /* LaunchScreen.storyboard */; };
 		AE031086230EBD7500456516 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031085230EBD7500456516 /* main.m */; };
 		AE03108E230EBEF900456516 /* developClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AE03108D230EBEF900456516 /* developClass.m */; };
+		AE031091230EBF4600456516 /* feature2Class.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031090230EBF4600456516 /* feature2Class.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		AE031085230EBD7500456516 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AE03108C230EBEF900456516 /* developClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = developClass.h; sourceTree = "<group>"; };
 		AE03108D230EBEF900456516 /* developClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = developClass.m; sourceTree = "<group>"; };
+		AE03108F230EBF4600456516 /* feature2Class.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = feature2Class.h; sourceTree = "<group>"; };
+		AE031090230EBF4600456516 /* feature2Class.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = feature2Class.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				AE03107A230EBD7300456516 /* ViewController.m */,
 				AE03108C230EBEF900456516 /* developClass.h */,
 				AE03108D230EBEF900456516 /* developClass.m */,
+				AE03108F230EBF4600456516 /* feature2Class.h */,
+				AE031090230EBF4600456516 /* feature2Class.m */,
 				AE03107C230EBD7300456516 /* Main.storyboard */,
 				AE03107F230EBD7500456516 /* Assets.xcassets */,
 				AE031081230EBD7500456516 /* LaunchScreen.storyboard */,
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE031091230EBF4600456516 /* feature2Class.m in Sources */,
 				AE03107B230EBD7300456516 /* ViewController.m in Sources */,
 				AE031086230EBD7500456516 /* main.m in Sources */,
 				AE03108E230EBEF900456516 /* developClass.m in Sources */,
