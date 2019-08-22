@@ -24,12 +24,12 @@
     NSLog(@"nslog5");
 }
 
-- (void)newFeature1method {
-    NSLog(@"nslog5");
+- (void)newFeature4method {
+    NSLog(@"nslog4");
 }
 
-- (void)feature1method {
-    NSLog(@"feature1method");
+- (void)feature4method {
+    NSLog(@"feature4method");
 }
 
 
