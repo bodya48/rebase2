@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"nslog");
+    NSLog(@"nslog2");
+    NSLog(@"nslog3");
 }
 
 
