@@ -15,6 +15,7 @@
 		AE031086230EBD7500456516 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031085230EBD7500456516 /* main.m */; };
 		AE03108E230EBEF900456516 /* developClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AE03108D230EBEF900456516 /* developClass.m */; };
 		AE031091230EBF4600456516 /* feature2Class.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031090230EBF4600456516 /* feature2Class.m */; };
+		AE031094230EC10800456516 /* newFunctoionality.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031093230EC10800456516 /* newFunctoionality.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		AE03108D230EBEF900456516 /* developClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = developClass.m; sourceTree = "<group>"; };
 		AE03108F230EBF4600456516 /* feature2Class.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = feature2Class.h; sourceTree = "<group>"; };
 		AE031090230EBF4600456516 /* feature2Class.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = feature2Class.m; sourceTree = "<group>"; };
+		AE031092230EC10800456516 /* newFunctoionality.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newFunctoionality.h; sourceTree = "<group>"; };
+		AE031093230EC10800456516 /* newFunctoionality.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newFunctoionality.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				AE03108D230EBEF900456516 /* developClass.m */,
 				AE03108F230EBF4600456516 /* feature2Class.h */,
 				AE031090230EBF4600456516 /* feature2Class.m */,
+				AE031092230EC10800456516 /* newFunctoionality.h */,
+				AE031093230EC10800456516 /* newFunctoionality.m */,
 				AE03107C230EBD7300456516 /* Main.storyboard */,
 				AE03107F230EBD7500456516 /* Assets.xcassets */,
 				AE031081230EBD7500456516 /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE031094230EC10800456516 /* newFunctoionality.m in Sources */,
 				AE031091230EBF4600456516 /* feature2Class.m in Sources */,
 				AE03107B230EBD7300456516 /* ViewController.m in Sources */,
 				AE031086230EBD7500456516 /* main.m in Sources */,
