@@ -28,8 +28,8 @@
     NSLog(@"nslog4");
 }
 
-- (void)feature4method {
-    NSLog(@"feature4method");
+- (void)fThisMethodsWasChangedd {
+    NSLog(@"ThisMethodsWasChanged");
 }
 
 - (void)someNewMethod {
