@@ -26,6 +26,11 @@
     NSLog(@"no feature mehtods here");
 }
 
+- (void)thisIsDevelopMethod2 {
+    NSLog(@"thisIsDevelopMethod");
+    NSLog(@"no feature mehtods here");
+}
+
 
 /*
  */
