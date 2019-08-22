@@ -13,6 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface ClassForDevelopBranch : NSObject
 
 - (void)methodForDevelop;
+- (void)anotherMethodForDevelop;
 
 @end
 
