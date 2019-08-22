@@ -10,7 +10,7 @@
 
 @implementation newFunctoionality
 
-- (void)developMethod {
+- (void)newFeature3OneMore {
     
 }
 
