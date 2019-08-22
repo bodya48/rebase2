@@ -33,4 +33,8 @@
 }
 
 
+- (void)feature3method {
+    NSLog(@"feature3method");
+}
+
 @end
