@@ -24,7 +24,7 @@
     NSLog(@"nslog5");
 }
 
-- (void)newFeature4method {
+- (void)newFeature4Renamedmethod {
     NSLog(@"nslog4");
 }
 
