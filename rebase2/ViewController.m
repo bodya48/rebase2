@@ -44,4 +44,12 @@
     NSLog(@"newfeature3method");
 }
 
+- (void)feature3method {
+    NSLog(@"feature3method");
+}
+
+- (void)newfeature3method {
+    NSLog(@"newfeature3method");
+}
+
 @end
