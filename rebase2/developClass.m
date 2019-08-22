@@ -10,4 +10,8 @@
 
 @implementation developClass
 
+- (void)newDevelopmethod {
+    
+}
+
 @end
