@@ -28,5 +28,9 @@
     NSLog(@"nslog5");
 }
 
+- (void)feature1method {
+    NSLog(@"feature1method");
+}
+
 
 @end
