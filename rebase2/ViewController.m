@@ -21,6 +21,7 @@
     NSLog(@"nslog2");
     NSLog(@"nslog3");
     NSLog(@"nslog4");
+    NSLog(@"nslog5");
 }
 
 
