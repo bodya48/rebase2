@@ -19,11 +19,14 @@
     
     NSLog(@"nslog");
     NSLog(@"nslog2");
-    NSLog(@"nslog3");
+    NSLog(@"nslogConflicting");
     NSLog(@"nslog4");
     NSLog(@"nslog5");
 }
 
+- (void)newFeature1method {
+    NSLog(@"nslog5");
+}
 
 
 @end
