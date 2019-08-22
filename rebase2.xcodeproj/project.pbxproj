@@ -16,6 +16,7 @@
 		AE03108E230EBEF900456516 /* developClass.m in Sources */ = {isa = PBXBuildFile; fileRef = AE03108D230EBEF900456516 /* developClass.m */; };
 		AE031091230EBF4600456516 /* feature2Class.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031090230EBF4600456516 /* feature2Class.m */; };
 		AE031094230EC10800456516 /* newFunctoionality.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031093230EC10800456516 /* newFunctoionality.m */; };
+		AECD89C9230EDAD600A50A42 /* ImportantFunctionality.m in Sources */ = {isa = PBXBuildFile; fileRef = AECD89C8230EDAD600A50A42 /* ImportantFunctionality.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,8 @@
 		AE031090230EBF4600456516 /* feature2Class.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = feature2Class.m; sourceTree = "<group>"; };
 		AE031092230EC10800456516 /* newFunctoionality.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newFunctoionality.h; sourceTree = "<group>"; };
 		AE031093230EC10800456516 /* newFunctoionality.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newFunctoionality.m; sourceTree = "<group>"; };
+		AECD89C7230EDAD600A50A42 /* ImportantFunctionality.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImportantFunctionality.h; sourceTree = "<group>"; };
+		AECD89C8230EDAD600A50A42 /* ImportantFunctionality.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImportantFunctionality.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				AE031090230EBF4600456516 /* feature2Class.m */,
 				AE031092230EC10800456516 /* newFunctoionality.h */,
 				AE031093230EC10800456516 /* newFunctoionality.m */,
+				AECD89C7230EDAD600A50A42 /* ImportantFunctionality.h */,
+				AECD89C8230EDAD600A50A42 /* ImportantFunctionality.m */,
 				AE03107C230EBD7300456516 /* Main.storyboard */,
 				AE03107F230EBD7500456516 /* Assets.xcassets */,
 				AE031081230EBD7500456516 /* LaunchScreen.storyboard */,
@@ -159,6 +164,7 @@
 				AE031094230EC10800456516 /* newFunctoionality.m in Sources */,
 				AE031091230EBF4600456516 /* feature2Class.m in Sources */,
 				AE03107B230EBD7300456516 /* ViewController.m in Sources */,
+				AECD89C9230EDAD600A50A42 /* ImportantFunctionality.m in Sources */,
 				AE031086230EBD7500456516 /* main.m in Sources */,
 				AE03108E230EBEF900456516 /* developClass.m in Sources */,
 				AE031078230EBD7300456516 /* AppDelegate.m in Sources */,

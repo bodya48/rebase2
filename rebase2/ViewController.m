@@ -32,5 +32,8 @@
     NSLog(@"feature4method");
 }
 
+- (void)someNewMethod {
+    NSLog(@"someNewMethod");
+}
 
 @end
