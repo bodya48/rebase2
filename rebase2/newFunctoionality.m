@@ -10,4 +10,8 @@
 
 @implementation newFunctoionality
 
+- (void)developMethod {
+    
+}
+
 @end
