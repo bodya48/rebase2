@@ -13,6 +13,7 @@
 		AE031080230EBD7500456516 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE03107F230EBD7500456516 /* Assets.xcassets */; };
 		AE031083230EBD7500456516 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE031081230EBD7500456516 /* LaunchScreen.storyboard */; };
 		AE031086230EBD7500456516 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AE031085230EBD7500456516 /* main.m */; };
+		AECD89CF230EDD6C00A50A42 /* ClassForFeatureBranch.m in Sources */ = {isa = PBXBuildFile; fileRef = AECD89CE230EDD6C00A50A42 /* ClassForFeatureBranch.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		AE031082230EBD7500456516 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE031084230EBD7500456516 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE031085230EBD7500456516 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AECD89CD230EDD6C00A50A42 /* ClassForFeatureBranch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClassForFeatureBranch.h; sourceTree = "<group>"; };
+		AECD89CE230EDD6C00A50A42 /* ClassForFeatureBranch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClassForFeatureBranch.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				AE031077230EBD7300456516 /* AppDelegate.m */,
 				AE031079230EBD7300456516 /* ViewController.h */,
 				AE03107A230EBD7300456516 /* ViewController.m */,
+				AECD89CD230EDD6C00A50A42 /* ClassForFeatureBranch.h */,
+				AECD89CE230EDD6C00A50A42 /* ClassForFeatureBranch.m */,
 				AE03107C230EBD7300456516 /* Main.storyboard */,
 				AE03107F230EBD7500456516 /* Assets.xcassets */,
 				AE031081230EBD7500456516 /* LaunchScreen.storyboard */,
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE03107B230EBD7300456516 /* ViewController.m in Sources */,
+				AECD89CF230EDD6C00A50A42 /* ClassForFeatureBranch.m in Sources */,
 				AE031086230EBD7500456516 /* main.m in Sources */,
 				AE031078230EBD7300456516 /* AppDelegate.m in Sources */,
 			);
